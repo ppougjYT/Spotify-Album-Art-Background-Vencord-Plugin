@@ -9,7 +9,7 @@ Instuctions:
 git clone https://github.com/Vendicated/Vencord
 ```
 then go to the Vencord folder and open src and make a new folder named userplugins
-then make a folder for the plugin inside of the userplugins folder
+then make a folder for the plugin inside of the userplugins folder and put the Index.tsx file in it
 then go back to the console and do CD Vencord
 
 then run in order
