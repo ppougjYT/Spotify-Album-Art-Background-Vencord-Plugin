@@ -12,11 +12,12 @@ then go back to the console and do CD Vencord
 
 then run in order
 
+```bash
 npm i -g pnpm
 pnpm i
 pnpm build
 pnpm inject
-
+```
 -------------------------------------------------------------------------------------------------------------------
 
 <img width="613" height="681" alt="image" src="https://github.com/user-attachments/assets/ceb72fc7-ee29-4a71-81c4-b87de693af35" />
