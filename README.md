@@ -5,7 +5,9 @@ https://git-scm.com/install/windows
 -------------------------------------------------------------------------------------------------------------------
 
 Instuctions:
+```bash
 git clone https://github.com/Vendicated/Vencord
+```
 then go to the Vencord folder and open src and make a new folder named userplugins
 then make a folder for the plugin
 then go back to the console and do CD Vencord
